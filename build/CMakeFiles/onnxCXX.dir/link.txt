@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -O0 -g -g   CMakeFiles/onnxCXX.dir/main.cpp.o  -o onnxCXX   -L/home/ubuntu/xjmz/onnx_cpp/lib  -Wl,-rpath,/home/ubuntu/xjmz/onnx_cpp/lib -lonnxruntime 

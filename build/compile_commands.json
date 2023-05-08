@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/xjmz/onnx_cpp/build",
+  "command": "/usr/bin/g++   -I/home/ubuntu/xjmz/onnx_cpp -I/home/ubuntu/xjmz/onnx_cpp/include   -Wall -O0 -g -g   -std=gnu++17 -o CMakeFiles/onnxCXX.dir/main.cpp.o -c /home/ubuntu/xjmz/onnx_cpp/main.cpp",
+  "file": "/home/ubuntu/xjmz/onnx_cpp/main.cpp"
+}
+]

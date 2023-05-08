@@ -1,0 +1,3 @@
+/home/ubuntu/xjmz/onnx_cpp/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/xjmz/onnx_cpp/CMakeFiles/edit_cache.dir
+/home/ubuntu/xjmz/onnx_cpp/CMakeFiles/onnxCXX.dir
